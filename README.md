@@ -1,2 +1,2 @@
 # UserIP-Tuning
-Code for "UserIP-Tuning: Soft Prompt Tuning as Explainable User Inherent Profile Inference Machine"
+Code for "Prompt Tuning as User Inherent Profile Inference Machine" is under deployment in the partner company. Once the paper is published, we will release the code.
